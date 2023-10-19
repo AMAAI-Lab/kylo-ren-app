@@ -1,5 +1,7 @@
 # kylo-ren-app
 
+as part of the MOE project MOE2018-T2-2-161
+
 ### To run server in development mode:
 
 ``` 
